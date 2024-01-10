@@ -14,4 +14,4 @@ In this version, the same 4 bits in the instruction indicate the memory location
 
 ![SAP-8-bit Version 2.0](https://github.com/lawliet575/SAP-8-bit/assets/113696774/61c55798-81d5-4727-af9e-92fe81158fcb)
 
-[Link to Version 2.0 Project](https://wokwi.com/projects/384469459746345985)
+[Link to Version 2.0 Project](https://wokwi.com/projects/386522155970652161)
